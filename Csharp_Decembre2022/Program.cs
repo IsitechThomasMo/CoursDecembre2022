@@ -48,7 +48,7 @@ namespace Tempo_RPG
             string[] defaultCombatText = new string[]
             {
             "You're attacked by a monster!",
-            "Press any key to attack, but at the right time!",
+            "Press any key to attack"+/*, but at the right time*/"!",
             };
             string[] combatText = defaultCombatText;
 
